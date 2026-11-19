@@ -1,0 +1,8 @@
+{
+  "name": "H9loop Support Resolver",
+  "description": "Autonomous customer support agent resolving refund, billing, access, and account requests with POPIA compliance and deterministic policy enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
